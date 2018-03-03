@@ -8,6 +8,8 @@ The rar files can be downloaded from here:
 
 https://www.amar.org.ir/دادهها-و-اطلاعات-آماری/هزینه-و-درامد-خانوار/هزینه-و-درامد-کل-کشور#103181018---
 
+(I couldn't unzip them easily, and eventually used winzip for mac!)
+
 Each rar file contains the full data for a year. The data in the rar files come in mdb (Microsoft Access) format. Each mdb file contains more than 40 tables. The tables cover detailed data about sources of income, different expenditures, size of families, address, etc.
 
 dumper.py
