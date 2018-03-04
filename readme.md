@@ -9,7 +9,7 @@ cementing a ground work for other researchers and intellectuals in hopes of bett
 ### Phase 1: 
 Source of data : 
 
-We will start by scrapping every raw data that is available to public from the `https://www.amar.org.ir/`. 
+We will start by scrapping available public data from the `https://www.amar.org.ir/`. 
  
 Mohsen's Original Work
 ===========================
